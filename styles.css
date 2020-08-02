@@ -1,0 +1,22 @@
+header{
+	color: red;
+	text-align: center;
+	margin-top: 50px;
+	font: small-caps bold 50px/70px Georgia, serif;
+}
+section{
+	
+	
+	border: 1px solid black;
+	float: left;
+	margin-right: 5px;
+	background color:grey;
+}
+h1{
+	position: relative;
+	
+	left:300px;
+
+	color:blue;
+	
+}
